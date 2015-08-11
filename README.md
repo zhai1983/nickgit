@@ -1,2 +1,2 @@
 # nickgit
-nick's git
+nick's git, which will be used store all nick's code here!
