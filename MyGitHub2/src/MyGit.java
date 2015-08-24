@@ -3,6 +3,8 @@ public class MyGit {
     
     	/**
     	 * 
+    	 * This is a main method!
+    	 * 
     	 * @param args
     	 */
 	public static void main(String[] args) {
